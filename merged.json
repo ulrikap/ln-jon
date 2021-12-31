@@ -1,0 +1,14 @@
+{
+  "landing-header-about": {
+    "defaultMessage": "About the organization"
+  },
+  "landing-header-buildProcess": {
+    "defaultMessage": "Building process"
+  },
+  "landing-header-history": {
+    "defaultMessage": "History"
+  },
+  "landing-title": {
+    "defaultMessage": "Searey"
+  }
+}

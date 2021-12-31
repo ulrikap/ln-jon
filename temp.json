@@ -1,0 +1,26 @@
+{
+  "landing-header-about": {
+    "defaultMessage": "About the organization"
+  },
+  "landing-header-buildProcess": {
+    "defaultMessage": "Building process"
+  },
+  "landing-header-english": {
+    "defaultMessage": "English"
+  },
+  "landing-header-history": {
+    "defaultMessage": "History"
+  },
+  "landing-header-norwegian": {
+    "defaultMessage": "Norwegian"
+  },
+  "landing-title": {
+    "defaultMessage": "Searey"
+  },
+  "notfound-body": {
+    "defaultMessage": "Whoops, nothing here."
+  },
+  "notfound-goback": {
+    "defaultMessage": "Go back"
+  }
+}
